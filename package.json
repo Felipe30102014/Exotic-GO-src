@@ -1,0 +1,20 @@
+{
+  "name": "exotic-mods-exoticgo",
+  "version": "1.9.17",
+  "description": "Hello!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Offline testing"
+  ],
+  "author": "ZxcFang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "multer": "^1.4.5-lts.1"
+  }
+}

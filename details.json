@@ -1,0 +1,14 @@
+{
+    "userId": "61",
+    "sex": 1,
+    "nickName": "Exotic Player",
+    "birthday": "2019-1-9",
+    "details": "Testing Version!!",
+    "diamonds": 999999,
+    "golds": 999999,
+    "picUrl": "",
+    "picType": 0,
+    "telephone": null,
+    "hasPassword": true,
+    "vip": 3
+}
